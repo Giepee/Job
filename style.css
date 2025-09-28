@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    height: 200px;
+}
+
+.one {
+    width: 500px;
+    background-color: blue;
+    padding: 10px;
+    margin-right: 50px;
+}
+.two {
+    width: 500px;
+    background-color: rgb(157, 255, 0);
+    padding: 10px;
+    margin-left: 50px;
+}
